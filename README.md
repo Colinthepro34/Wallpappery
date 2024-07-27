@@ -1,1 +1,1 @@
-# Wallpappery
+# Wallpaperry
