@@ -1,1 +1,1 @@
-# Wallpaperry
+# Wallpapery
