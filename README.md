@@ -1,4 +1,4 @@
-# Wallpapery
+# Wallpappery
 
 This project is a responsive website that showcases wallpapers. The website includes a header, a background image, and multiple sections for displaying images.
 
