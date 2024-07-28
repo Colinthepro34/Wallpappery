@@ -30,7 +30,7 @@ This project is a responsive website that showcases wallpapers. The website incl
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Wallpappery 
+    cd Wallpappery/website
     ```
 3. Open the `index2.html` file in your web browser to view the website.
 
